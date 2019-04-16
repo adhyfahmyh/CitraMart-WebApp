@@ -96,10 +96,10 @@
 
               <ul class="nav navbar-nav navbar-right">
                 <li class="">
-                  <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                  <!-- <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
                     <img src="images/user.png" alt=""><?php echo $_SESSION['kasir_name']; ?>
                     <span class=" fa fa-angle-down"></span>
-                  </a>
+                  </a> -->
                   <ul class="dropdown-menu dropdown-usermenu pull-right">
                     <li><a href="../includes/logout.php"><i class="fa fa-sign-out pull-right"></i> Log Out</a></li>
                   </ul>

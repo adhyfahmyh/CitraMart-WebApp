@@ -51,12 +51,12 @@
               <div class="profile_pic">
                 <img src="images/user.png" alt="..." class="img-circle profile_img">
               </div>
-              <!-- <div class="profile_info">
+              <div class="profile_info">
                 <span>Welcome,</span>
                 <h2><?php 
-                // echo $_SESSION['kasir_name']; 
+                echo $_SESSION['kasir_name']; 
                 ?></h2>
-              </div> -->
+              </div>
             </div>
             <!-- /menu profile quick info -->
 

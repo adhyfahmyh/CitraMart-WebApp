@@ -50,7 +50,7 @@
                 <span>Welcome,</span>
                 <h2>
                 <?php 
-                // echo $_SESSION['kasir_name']; 
+                echo $_SESSION['kasir_name']; 
                 ?>
                  </h2>
               </div>
